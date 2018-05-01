@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Zendaya's powerful twitter response to ignorant comment regarding her chosen Oscar's hairstyle</title>
+            <title type="sub">Digital Edition</title>
+            <author>
+              <persName xml:id="CSR">Courtney Richardson</persName>
+              <persName xml:id="AL">Ariana Lawson</persName>
+              <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities (ADDHUM)</orgName>
+            </author>
+            <respStmt>
+              <resp>Template provided by</resp>
+              <persName>Jessica Lu</persName>
+            </respStmt>
+            <respStmt>
+              <resp>Encoded by</resp>
+              <persName ref="#CSR">Courtney Richardson</persName>
+              <persName ref="#AL">Ariana Lawson</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+              <orgName ref="#ADDHUM">African American History, Culture, and Digital Humanities (ADDHUM)</orgName>
+            </publisher>
+            <pubPlace>
+              <settlement>College Park</settlement>
+              <region>Maryland</region>
+            </pubPlace>
+            <date when="2018-04-08">April 8, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>Zendaya's tweet</title>
+              <date when="2015-02-24">February 24, 2015</date>
+              <time when="00:20:00">12:20 AM</time>
+              <author xml:id="ZC">Zendaya Coleman</author>
+              <publisher>
+                <orgName>Twitter</orgName>
+              </publisher>
+              <pubPlace>Twitter</pubPlace> <!-- I decided to encode twitter as a place because Twitter has become a place for black individuals to engage in a digital space freely without policing from an outside group. -->
+              <date when="2015-02-24">February 24, 2015</date>
+              <note><figure><graphic url="https://twitter.com/Zendaya/status/570075725765541888"/><figDesc>This is the screenshot that Zendaya posted on her Twitter account as her response to an ignorant statement regarding her hair. </figDesc></figure></note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- I decided to do a profile description in the header because in the tweet, Zendaya mentions several black individuals who all have locs. Zendaya gives a brief explanation of who these people are, but to further amplify these black people, I decided to included their names, and a brief note about them. -->
+        <particDesc>
+          <person>
+            <persName ref="#ZC">
+              <persName ref="https://lccn.loc.gov/no2011134244"></persName>
+              <forename>Zendaya</forename>
+              <surname>Coleman</surname>
+              <note>Zendaya is a singer, actor, content creator and advocate who often uses her platform to spread positivity, and to amplify other voices. </note>
+              </persName>
+            <persName xml:id="ADV" ref="https://lccn.loc.gov/no2011127416">
+              <forename>Ava</forename>
+              <surname>DuVernay</surname>
+                <note>Ava DuVernay is a film writer, producer, and director who has worked on several films and TV shows including Selma, Queen Sugar, and A Wrinkle in Time.</note>
+            </persName>
+            <persName xml:id="LED" ref="https://lccn.loc.gov/no2002052001">
+              <forename>Ledisi</forename>
+              <surname>Young</surname>
+              <roleName type="stage-name">Ledisi</roleName>
+                <note>Ledisi is an R&amp;B/Jazz artist who has been nominated for 12 Grammys.</note>
+            </persName>
+            <persName xml:id="TMM" ref="https://lccn.loc.gov/n86098656">
+              <forename>Terry</forename>
+              <surname>McMillan</surname>
+                <note>Terry McMillan is a New York Times best selling author of several works with female leads.</note>
+            </persName>
+            <persName xml:id="VBR" ref="https://lccn.loc.gov/n2007043780">
+              <forename>Vincent</forename>
+              <surname>Brown</surname>
+                <note>At Harvard University, Vincent Brown is Charles Warren Professor of History, Director of the History Design Studio, and Professor of African and Afircan American Studies.</note>
+            </persName>
+            <persName xml:id="HAW" ref="https://lccn.loc.gov/n2004036365">
+              <forename type="first">Heather</forename>
+              <forename type="middle">Andrea</forename>
+              <surname>Williams</surname>
+                <note>Heather Andrea Williams is the Presidential Professor of Africa Studies at the University of Pennsylvania. Heather A. Williams is also an author and has worked as the Assistant Attorney General and at the U.S. Justice Department's CIvil Rights Division.</note>
+            </persName>
+            <persName xml:id="IA" ref="https://lccn.loc.gov/no2001097196">
+              <forename type="first">India</forename>
+              <forename type="middle">Arie</forename>
+              <surname>Simpson</surname>
+              <roleName type="stage-name">India.Arie</roleName>
+                <note>India.Arie is a Grammy award winning singer-songwriter, who has sold millions of records.</note>
+            </persName>
+          </person>
+        </particDesc>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+          There is a fine line between what is funny and disrespectful. <choice><orig>Someone</orig><supplied><persName xml:id="GRC">Giuliana Rancic</persName></supplied></choice> said <lb/>
+          something about my hair <supplied source="https://bglh-marketplace.com/2015/02/zendaya-coleman-insulted-over-faux-locs-natural-hair-style-at-the-oscars/"></supplied> at the Oscars that left me in awe. Not because I was <lb/> <!-- I decided to put a link to an article that includes a photo of Zendaya's hair to clarify the style Zendaya is talking about. I decided to use this particular website because this is a blog (BGLH) run by a black woman which was mentioned in one of our past readings by Catherine Knight Steele.-->
+          relishing in rave outfit reviews, but because I was hit with ignorant slurs and pure <lb/>
+          disrespect. To say that an 18 year old young woman with <choice><orig><abbr>locs</abbr></orig><reg>dreadlocks</reg></choice> must smell of <lb/>
+          patchouli oil or “weed” is not only a large stereotype but outrageously offensive. <lb/>
+          I don’t usually feel the need to respond to negative things but certain remarks cannot <lb/>
+          go unchecked. I’ll have you know my father, brother, best childhood friend and <lb/>
+          little cousins all have have locs. Do you want to know what <persName ref="#ADV">Ava DuVernay</persName> <lb/>
+          (director of the Oscar nominated film Selma), <persName ref="#LED">Ledisi</persName> (9 time Grammy nominated <lb/>
+          singer/songwriter and actress), <persName ref="#TMM">Terry McMillan</persName> (author), <persName ref="#VBR">Vincent Brown</persName> (Professor <lb/>
+          of African and African American studies at Harvard University), <persName ref="#HAW">Heather Andrea <lb/>
+          Williams</persName> (Historian who also possesses a JD from Harvard University, and an MA <lb/>
+          and PhD from Yale University) as well as many other men <choice><orig>woman</orig><corr>women</corr></choice> and children of <lb/>
+          all races have in common? Locs. None of which smell of <choice><orig>marajuana</orig><corr>marijuana</corr></choice>. There is <lb/>
+          already harsh criticism of African American hair in society without the help of <lb/>
+          ignorant people who choose to judge others based on the curl of their hair. <seg type="freedom-language">My <lb/><!-- This is an example of freedom languge because Zendaya is using her hairstyle as a method of liberation in the sense that black hair is often seen in a negative light, and by wearing locs to such a prestigious event, Zendaya is liberating herself and others of sociwties perception of good hair. -->
+          wearing my hair in locs on an Oscar red carpet was to showcase them in a positive <lb/>
+          light, to remind people of color that our hair is good enough.</seg> <seg type="freedom-language">To me locs are a <lb/>
+          symbol of strength and beauty, almost like a lion’s mane.</seg> I suggest some people <lb/>
+          should listen to <persName ref="#IA">India Arie’s</persName> <seg source="https://genius.com/Indiaarie-i-am-not-my-hair-lyrics">“I Am Not My Hair”</seg> and contemplate a little before <lb/> <!-- I decided to include the lyrics to this song as a reference becuase this song is about how African American women are more than their hair which is the center of Zendaya's response. Also, including the lyrics to this song amplifies the work done by India.Arie, a black female recording artist.   -->
+          opening your mouth so quickly to judge. <lb/>
+          -<persName ref="#ZC">Zendaya Coleman</persName> <lb/>
+         </p>
+      </body>
+  </text>
+</TEI>
