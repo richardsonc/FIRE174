@@ -10,10 +10,10 @@
             <author>
               <persName xml:id="CSR">Courtney Richardson</persName>
               <persName xml:id="AL">Ariana Lawson</persName>
-              <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities (ADDHUM)</orgName>
+              <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities (ADDHum)</orgName>
             </author>
             <respStmt>
-              <resp>Template provided by</resp>
+              <resp>TEI template provided by</resp>
               <persName>Jessica Lu</persName>
             </respStmt>
             <respStmt>
@@ -24,7 +24,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-              <orgName ref="#ADDHUM">African American History, Culture, and Digital Humanities (ADDHUM)</orgName>
+              <orgName ref="#ADDHUM">African American History, Culture, and Digital Humanities (ADDHum)</orgName>
             </publisher>
             <pubPlace>
               <settlement>College Park</settlement>
@@ -42,7 +42,6 @@
                 <orgName>Twitter</orgName>
               </publisher>
               <pubPlace>Twitter</pubPlace> <!-- I decided to encode twitter as a place because Twitter has become a place for black individuals to engage in a digital space freely without policing from an outside group. -->
-              <date when="2015-02-24">February 24, 2015</date>
               <note><figure><graphic url="https://twitter.com/Zendaya/status/570075725765541888"/><figDesc>This is the screenshot that Zendaya posted on her Twitter account as her response to an ignorant statement regarding her hair. </figDesc></figure></note>
             </bibl>
          </sourceDesc>
@@ -98,7 +97,7 @@
       <body>
          <p>
           There is a fine line between what is funny and disrespectful. <choice><orig>Someone</orig><supplied><persName xml:id="GRC">Giuliana Rancic</persName></supplied></choice> said <lb/>
-          something about my hair <supplied source="https://bglh-marketplace.com/2015/02/zendaya-coleman-insulted-over-faux-locs-natural-hair-style-at-the-oscars/"></supplied> at the Oscars that left me in awe. Not because I was <lb/> <!-- I decided to put a link to an article that includes a photo of Zendaya's hair to clarify the style Zendaya is talking about. I decided to use this particular website because this is a blog (BGLH) run by a black woman which was mentioned in one of our past readings by Catherine Knight Steele.-->
+          something about my hair <supplied source="https://bglh-marketplace.com/2015/02/zendaya-coleman-insulted-over-faux-locs-natural-hair-style-at-the-oscars/"></supplied> at the Oscars that left me in awe. Not because I was <lb/> <!-- I decided to put a link to an article that includes a photo of Zendaya's hair to clarify the style Zendaya is talking about. I decided to use this particular website because this is a blog (BGLH) run by a black woman which was mentioned in one of our past readings by Catherine Knight Steele.--><!-- should we link the paper -->
           relishing in rave outfit reviews, but because I was hit with ignorant slurs and pure <lb/>
           disrespect. To say that an 18 year old young woman with <choice><orig><abbr>locs</abbr></orig><reg>dreadlocks</reg></choice> must smell of <lb/>
           patchouli oil or “weed” is not only a large stereotype but outrageously offensive. <lb/>
@@ -107,9 +106,9 @@
           little cousins all have have locs. Do you want to know what <persName ref="#ADV">Ava DuVernay</persName> <lb/>
           (director of the Oscar nominated film Selma), <persName ref="#LED">Ledisi</persName> (9 time Grammy nominated <lb/>
           singer/songwriter and actress), <persName ref="#TMM">Terry McMillan</persName> (author), <persName ref="#VBR">Vincent Brown</persName> (Professor <lb/>
-          of African and African American studies at Harvard University), <persName ref="#HAW">Heather Andrea <lb/>
-          Williams</persName> (Historian who also possesses a JD from Harvard University, and an MA <lb/>
-          and PhD from Yale University) as well as many other men <choice><orig>woman</orig><corr>women</corr></choice> and children of <lb/>
+          of African and African American studies at <orgName>Harvard University</orgName>), <persName ref="#HAW">Heather Andrea <lb/>
+          Williams</persName> (Historian who also possesses a JD from <orgName>Harvard University</orgName>, and an MA <lb/>
+          and PhD from <orgName>Yale University</orgName>) as well as many other men <choice><orig>woman</orig><corr>women</corr></choice> and children of <lb/>
           all races have in common? Locs. None of which smell of <choice><orig>marajuana</orig><corr>marijuana</corr></choice>. There is <lb/>
           already harsh criticism of African American hair in society without the help of <lb/>
           ignorant people who choose to judge others based on the curl of their hair. <seg type="freedom-language">My <lb/><!-- This is an example of freedom languge because Zendaya is using her hairstyle as a method of liberation in the sense that black hair is often seen in a negative light, and by wearing locs to such a prestigious event, Zendaya is liberating herself and others of sociwties perception of good hair. -->
