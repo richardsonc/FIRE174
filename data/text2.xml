@@ -5,24 +5,26 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">"I am not my hair" song by India.Arie that promotes black beauty.</title>
+            <title type="main">India.Arie's song, "I Am Not My Hair" blackbeauty in relation to hair.</title>
             <title type="sub">Digital Edition</title>
             <author>
               <persName xml:id="AL">Ariana Lawson</persName>
-              <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities(ADDHUM)</orgName>
+              <persName xml:id="CSR">Courtney Richardson</persName>
+              <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities(ADDHum)</orgName>
             </author>
             <respStmt>
-              <resp>Template provided by</resp>
+              <resp>TEI template provided by</resp>
               <persName>Jessica Lu</persName>
             </respStmt>
             <respStmt>
               <resp>Encoded by</resp>
               <persName ref="#AL">Ariana Lawson</persName>
+              <persName ref="#CSR">Courtney Richardson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>
-              <orgName ref="#ADDHUM">African American History, Culture, and Digital Humanities (ADDHUM)</orgName>
+              <orgName ref="#ADDHUM">African American History, Culture, and Digital Humanities (ADDHum)</orgName>
             </publisher>
             <pubPlace>
               <settlement>College Park</settlement>
@@ -32,7 +34,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-              <title>I am not my hair</title>
+              <title>I Am Not My Hair</title>
               <date when="2005-11-05">November 15, 2005</date>
               <author xml:id="IA">India.Arie</author>
               <publisher>
@@ -40,33 +42,34 @@
               </publisher>
               <pubPlace>Detroit, Michigan</pubPlace>
               <date when="2005-11-05">November 11, 2005</date>
-              <seg> source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics"</seg>
+              <seg source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics"> </seg><!-- or would this be supplied -->
             </bibl>
-
          </sourceDesc>
       </fileDesc>
         <profileDesc>
           <particDesc>
             <person>
               <persName ref="#IA"> <persName ref=" http://id.loc.gov/authorities/names/no2001097196.html">
-                <forename>India.Arie</forename>
+                <forename type="first">India</forename>
+                <forename type="middle">Arie</forename>
                 <surname>Simpson</surname>
-                <note>India.Arie is an African American Singer who promotes Black beauty and natural hair.</note>
+                <roleName type="stage-name">India.Arie</roleName>
+                <note>India.Arie is an African American Singer who promotes Black beauty and natural hair with her music.</note>
               </persName></persName>
               <note><figure><graphic url="http"/><figDesc>add description here</figDesc></figure></note>
             <persName xml:id="BM"> <persName ref= "http://id.loc.gov/authorities/names/n81020153.html">
                 <forename>Bob</forename>
                 <surname>Marley</surname>
-                <note>Bob Marley is a Jamacian singer who is know for wearing dreadlocks</note>
+                <note>Bob Marley is a Jamacian singer who is known for wearing dreadlocks, a type of natural hair style.</note>
               </persName></persName>
-              <persName xml:id="OP"> <persName ref="http://id.loc.gov/authorities/names/n86057994.html">
+            <persName xml:id="OP"> <persName ref="http://id.loc.gov/authorities/names/n86057994.html">
                   <forename>Oprah</forename>
                   <surname>Winfrey</surname>
-                  <note>Oprah Winfrey is a black femenist activist best know wearing her hair striaght</note>
+                  <note>Oprah Winfrey is a black feminist activist, talk show host, producer, and is best known wearing her hair in straight styles.</note>
                 </persName></persName>
               </person>
             </particDesc>
-            </profileDesc>
+        </profileDesc>
   </teiHeader>
     <text>
       <body>
@@ -75,14 +78,14 @@
         <lg type="verse">
           <l> See, <choice><orig>I</orig><supplied><persName ref="#IA">India.Arie</persName></supplied></choice>can kinda recall a lil' ways back </l> <!-- 4 comments through out -->
           <l> Small, tryin' to ball, always been black </l>
-          <l> And my hair, I tried it all I even went <choice><orig><abbr>flat</abbr></orig><reg>Flat-ironed hair</reg></choice></l>
+          <l> And my hair, I tried it all I even went <choice><orig><abbr>flat</abbr></orig><reg>Flat-ironed</reg></choice></l>
           <l> Had a lumpy curly top and all that crap, now </l>
           <l> Just tryin' to be appreciated</l>
           <l> Nappy headed brothers never had no ladies</l>
           <l> And I hit the barber shop real quick</l>
           <l> Had 'em give me lil' twist and it drove 'em crazy (crazy)</l>
           <l> Then I couldn't get no job</l>
-          <l> 'Cause corporate wouldn't hire no dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> Indie.Arie is </supplied></l> <!-- I decided to adda link to the hairstyle so that ...... -->
+          <l> 'Cause corporate wouldn't hire no dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> Indie.Arie is </supplied></l> <!-- I decided to add a link to the hairstyle so that ...... -->
           <l> Then I thought about my dogs from the block</l>
           <l> Kinda understand why they chose to steal and rob</l>
           <l> Was it the hair that got me this far</l>
@@ -132,7 +135,7 @@
           <l>Ain't see nothin' like that in all my days</l>
           <l>Man, you gotta change all these feelings</l>
           <l>Steady judging one another by their appearance</l>
-          <l>Yes,<choice><orig>India</orig><supplied><persName ref="#IA">India.Arie</persName></supplied></choice>, I feel ya, girl</l>
+          <l>Yes,<persName ref="#IA">India</persName>, I feel ya, girl</l>
           <l>Now go ahead, talk to the rest of the world 'cause</l>
         </lg>
       <lg type= "Verse">
