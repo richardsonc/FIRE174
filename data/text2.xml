@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">India.Arie's song, "I Am Not My Hair" blackbeauty in relation to hair.</title>
+            <title type="main">India.Arie's song, "I Am Not My Hair" black beauty in relation to hair.</title>
             <title type="sub">Digital Edition</title>
             <author>
               <persName xml:id="AL">Ariana Lawson</persName>
@@ -42,11 +42,15 @@
               </publisher>
               <pubPlace>Detroit, Michigan</pubPlace>
               <date when="2005-11-05">November 11, 2005</date>
-              <seg source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics"> </seg><!-- or would this be supplied -->
+              <note source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics">Lyrics to "I Am Not My Hair" by India.Arie</note><!-- i decided to use lyrics from genius because this is the first website that posted lyrics for hip hop music which is genre predominantly made up of black artists.-->
             </bibl>
          </sourceDesc>
       </fileDesc>
         <profileDesc>
+          <langUsage>
+            <language ident="en-US">United States English</language>
+            <language ident="en-aav">African American Vernacular English</language><!-- is this right -->
+          </langUsage>
           <particDesc>
             <person>
               <persName ref="#IA"> <persName ref=" http://id.loc.gov/authorities/names/no2001097196.html">
@@ -60,7 +64,7 @@
             <persName xml:id="BM"> <persName ref= "http://id.loc.gov/authorities/names/n81020153.html">
                 <forename>Bob</forename>
                 <surname>Marley</surname>
-                <note>Bob Marley is a Jamacian singer who is known for wearing dreadlocks, a type of natural hair style.</note>
+                <note>Bob Marley is a Jamaican singer who is known for wearing dreadlocks, a type of natural hair style.</note>
               </persName></persName>
             <persName xml:id="OP"> <persName ref="http://id.loc.gov/authorities/names/n86057994.html">
                   <forename>Oprah</forename>
