@@ -42,16 +42,16 @@
               </publisher>
               <pubPlace>Detroit, Michigan</pubPlace>
               <date when="2005-11-05">November 11, 2005</date>
-              <note source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics">Lyrics to "I Am Not My Hair" by India.Arie</note><!-- i decided to use lyrics from genius because this is the first website that posted lyrics for hip hop music which is genre predominantly made up of black artists.-->
+              <note source= "https://genius.com/Indiaarie-i-am-not-my-hair-lyrics">Lyrics to "I Am Not My Hair" by India.Arie</note><!-- I decided to use lyrics from genius because this is the first website that posted lyrics for hip-hop music which is a genre predominantly made up of black artists.-->
             </bibl>
          </sourceDesc>
       </fileDesc>
         <profileDesc>
-          <langUsage>
+          <langUsage><!-- I decided to add the language, African American Vernacular English because it was preserved in the text. -->
             <language ident="en-US">United States English</language>
-            <language ident="en-aav">African American Vernacular English</language><!-- is this right -->
+            <language ident="en-AAV">African American Vernacular English</language><!-- is this right -->
           </langUsage>
-          <particDesc>
+          <particDesc><!-- I decidied to use a particDesc to further amplify the black people India.Arie mentions in her song.  -->
             <person>
               <persName ref="#IA"> <persName ref=" http://id.loc.gov/authorities/names/no2001097196.html">
                 <forename type="first">India</forename>
@@ -60,7 +60,6 @@
                 <roleName type="stage-name">India.Arie</roleName>
                 <note>India.Arie is an African American Singer who promotes Black beauty and natural hair with her music.</note>
               </persName></persName>
-              <note><figure><graphic url="http"/><figDesc>add description here</figDesc></figure></note>
             <persName xml:id="BM"> <persName ref= "http://id.loc.gov/authorities/names/n81020153.html">
                 <forename>Bob</forename>
                 <surname>Marley</surname>
@@ -80,7 +79,7 @@
         <p>
       <lg type="song">
         <lg type="verse">
-          <l> See, <choice><orig>I</orig><supplied><persName ref="#IA">India.Arie</persName></supplied></choice>can kinda recall a lil' ways back </l> <!-- 4 comments through out -->
+          <l> See, <choice><orig>I</orig><supplied><persName ref="#IA">India.Arie</persName></supplied></choice>can kinda recall a lil' ways back </l>
           <l> Small, tryin' to ball, always been black </l>
           <l> And my hair, I tried it all I even went <choice><orig><abbr>flat</abbr></orig><reg>Flat-ironed</reg></choice></l>
           <l> Had a lumpy curly top and all that crap, now </l>
@@ -89,7 +88,7 @@
           <l> And I hit the barber shop real quick</l>
           <l> Had 'em give me lil' twist and it drove 'em crazy (crazy)</l>
           <l> Then I couldn't get no job</l>
-          <l> 'Cause corporate wouldn't hire no dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> Indie.Arie is </supplied></l> <!-- I decided to add a link to the hairstyle so that ...... -->
+          <l> 'Cause corporate wouldn't hire no dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> This is a link to a website that describes of the natural hairstyle, dreadlocks. </supplied></l> <!-- I decided to add a link to describe each hairstyle to explain what it is and to shine a light on the multiple natural hairstyles worn by black people.  -->
           <l> Then I thought about my dogs from the block</l>
           <l> Kinda understand why they chose to steal and rob</l>
           <l> Was it the hair that got me this far</l>
@@ -98,19 +97,19 @@
           <l>'Cause success didn't come till I cut it all off</l>
         </lg>
         <lg type= "Verse">
-          <l>Little girl with the press and curl <supplied source= "http://endlesscreationssalon.com/what-is-a-press-n-curl/"> Indie.Arie is referring to straightening natural hair with heat.</supplied></l>
-          <l> Age eight, I got a Jheri curl<supplied source= "http://www.80sfashion.org/the-jheri-curl/"> Indie.Arie is </supplied></l>
-          <l> Thirteen, and I got a relaxer <supplied source= "https://www.naturallycurly.com/curlreading/kinky-hair-type-4a/hair-relaxers-the-facts"> Indie.Arie is referring straightening hair with chemicals. </supplied> </l>
+          <l>Little girl with the press and curl <supplied source= "http://endlesscreationssalon.com/what-is-a-press-n-curl/"> This is a link to a website about straightening natural hair with heat into the press and curl style.</supplied></l>
+          <l> Age eight, I got a Jheri curl<supplied source= "http://www.80sfashion.org/the-jheri-curl/"> This is a link to a description of the jheri curl hairstyle. </supplied></l>
+          <l> Thirteen, and I got a relaxer <supplied source= "https://www.naturallycurly.com/curlreading/kinky-hair-type-4a/hair-relaxers-the-facts"> This is a link to a website describing relaxers, the straightening of hair with chemicals. </supplied> </l>
           <l>I was a source of so much laughter</l>
           <l> I went on and did what I had to do</l>
           <l>Because it was time to change my life</l>
           <l>To become the woman that I am inside</l>
-          <l> Ninety-seven dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> Indie.Arie is </supplied>  all gone</l>
+          <l> Ninety-seven dreadlocks <supplied source= "http://www.stylecraze.com/articles/how-to-make-and-maintain-dreadlocks/#gref"> This is a link to a website that describes of the natural hairstyle, dreadlocks. </supplied>  all gone</l>
           <l>I looked in the mirror for the first time and saw that</l>
         </lg>
         <lg type="chorus">
           <l> Hey (hey)</l>
-          <l>I am not my hair</l>
+          <l><seg type="natural-hair">I am not my hair</seg></l><!-- This is an example of freedom language because India.Arie is saying that black people are more than their hari, and natural hair should be freeing, rather than confining to black people due to personal and societal views. -->
           <l> I am not this skin </l>
           <l> I am not your expectations, no (hey) </l>
           <l> I am not my hair</l>
@@ -119,11 +118,11 @@
           <l> Good hair means curls and waves (no)</l>
           <l> Bad hair means you look like a slave (no)</l>
           <l> At the turn of the century</l>
-          <l>It's time for us to redefine who we be</l>
+          <l><seg type="natural-hair">It's time for us to redefine who we be</seg></l><!-- This is an example of freedom language because India.Arie is using her song to redefine how natural hair is seen in society. -->
           <l> You can shave it off like a South African beauty</l>
           <l>Or get in on lock<choice><orig><abbr>locks</abbr></orig><reg>dreadlocks</reg></choice> like <persName ref="#BM">Bob Marley</persName></l>
           <l>You can rock it straight like <persName ref="#OP">Oprah Winfrey</persName></l>
-          <l> If it's not what's on your head, it's what's underneath,and say</l>
+          <l> If it's not what's on your head, it's what's underneath, and say</l>
           <l> Hey (hey)</l>
           <l> I am not my hair</l>
           <l> I am not this skin </l>
@@ -134,8 +133,8 @@
         </lg>
         <lg type= "Verse">
           <l>Who cares if you don't like that?</l>
-          <l>With nothin' to lose, postin' with the wave cap <supplied source= "https://menwit.com/what-is-wave-cap-how-is-it-used"> Indie.Arie is </supplied></l>
-          <l>And the cops wanna harass 'cause I got waves <supplied source= "https://www.menshairstyletrends.com/waves-haircut/"> Indie.Arie is </supplied></l>
+          <l>With nothin' to lose, postin' with the wave cap <supplied source= "https://menwit.com/what-is-wave-cap-how-is-it-used"> This is a link to a website about the use of a wave cap. </supplied></l>
+          <l>And the cops wanna harass 'cause I got waves <supplied source= "https://www.menshairstyletrends.com/waves-haircut/"> This is a link to a website about the natural hairstyle, waves. </supplied></l>
           <l>Ain't see nothin' like that in all my days</l>
           <l>Man, you gotta change all these feelings</l>
           <l>Steady judging one another by their appearance</l>
@@ -155,7 +154,7 @@
            <l> She would enjoy every day of her life, oh</l>
            <l>On national television</l>
            <l>Her diamond eyes are sparkling</l>
-           <l>Bald-headed <supplied source= "https://www.essence.com/hair/black-women-bald-heads"> Indie.Arie is </supplied> like a full moon shining</l>
+           <l>Bald-headed <supplied source= "https://www.essence.com/hair/black-women-bald-heads"> This is a link to a website about black women with bald heads. </supplied> like a full moon shining</l>
            <l>Singing out to the whole wide world like, hey</l>
         </lg>
         <lg type="chorus">
