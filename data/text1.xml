@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
               <resp>Encoded by</resp>
-              <persName ref="#CSR">Courtney Richardson</persName> 
+              <persName ref="#CSR">Courtney Richardson</persName>
               <persName ref="#AL">Ariana Lawson</persName>
             </respStmt>
          </titleStmt>
@@ -96,10 +96,10 @@
   <text>
       <body>
          <p>
-          There is a fine line between what is funny and disrespectful. <choice><orig>Someone</orig><supplied><persName xml:id="GRC">Giuliana Rancic</persName></supplied></choice> said <lb/>
+          There is a fine line between what is funny and disrespectful. <choice><orig>Someone</orig><supplied><persName xml:id="GRC">(Giuliana Rancic)</persName></supplied></choice> said <lb/>
           something about my hair <supplied source="https://bglh-marketplace.com/2015/02/zendaya-coleman-insulted-over-faux-locs-natural-hair-style-at-the-oscars/">This is a link to a blog with a picture of Zendaya's hairstyle.</supplied> at the Oscars that left me in awe. Not because I was <lb/> <!-- I decided to put a link to an article that includes a photo of Zendaya's hair to clarify the style Zendaya is talking about. I decided to use this particular website because this is a blog (BGLH) run by a black woman which was mentioned in one of our past readings by Catherine Knight Steele.-->
           relishing in rave outfit reviews, but because I was hit with ignorant slurs and pure <lb/>
-          disrespect. To say that an 18 year old young woman with <choice><orig><abbr>locs</abbr></orig><reg>dreadlocks</reg></choice> must smell of <lb/>
+          disrespect. To say that an 18 year old young woman with <choice><orig><abbr>locs</abbr></orig><reg>(dreadlocks)</reg></choice> must smell of <lb/>
           patchouli oil or “weed” is not only a large stereotype but outrageously offensive. <lb/>
           I don’t usually feel the need to respond to negative things but certain remarks cannot <lb/>
           go unchecked. I’ll have you know my father, brother, best childhood friend and <lb/>
@@ -109,7 +109,7 @@
           of African and African American studies at <orgName>Harvard University</orgName>), <persName ref="#HAW">Heather Andrea <lb/>
           Williams</persName> (Historian who also possesses a JD from <orgName>Harvard University</orgName>, and an MA <lb/>
           and PhD from <orgName>Yale University</orgName>) as well as many other men <choice><orig>woman</orig><corr>women</corr></choice> and children of <lb/>
-          all races have in common? Locs. None of which smell of <choice><orig>marajuana</orig><corr>marijuana</corr></choice>. There is <lb/>
+          all races have in common? Locs. None of which smell of <choice><orig>marajuana</orig><corr>(marijuana)</corr></choice>. There is <lb/>
           already harsh criticism of African American hair in society without the help of <lb/>
           ignorant people who choose to judge others based on the curl of their hair. <seg type="natural-hair">My <lb/><!-- This is an example of freedom language because Zendaya is using her hairstyle as a method of liberation in the sense that black hair is often seen in a negative light, and by wearing locs to such a prestigious event, Zendaya is liberating herself and others of sociwties perception of good hair. -->
           wearing my hair in locs on an Oscar red carpet was to showcase them in a positive <lb/>

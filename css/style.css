@@ -14,3 +14,7 @@ tei-Seg {font-weight: bold;
 }
 tei-Supplied {display: none;
 }
+tei-P {text-align: center;
+}
+tei-Reg {display: none;
+}
