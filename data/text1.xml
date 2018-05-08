@@ -8,7 +8,7 @@
             <title type="main">Zendaya's powerful twitter response to ignorant comment regarding her chosen Oscar's hairstyle</title>
             <title type="sub">Digital Edition</title>
             <author>
-              <persName xml:id="CSR">Courtney Richardson</persName>
+              <persName xml:id="CSR">Courtney Richardson</persName> and
               <persName xml:id="AL">Ariana Lawson</persName>
               <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities (ADDHum)</orgName>
             </author>
@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
               <resp>Encoded by</resp>
-              <persName ref="#CSR">Courtney Richardson</persName>
+              <persName ref="#CSR">Courtney Richardson</persName> 
               <persName ref="#AL">Ariana Lawson</persName>
             </respStmt>
          </titleStmt>

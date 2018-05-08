@@ -8,3 +8,9 @@ html {background: linear-gradient(0deg, #9bbede, #ffffff);
 }
 a {cursor: context-menu;
 }
+tei-Orig {display: none;
+}
+tei-Seg {font-weight: bold;
+}
+tei-Supplied {display: none;
+}
