@@ -12,9 +12,9 @@ tei-Orig {display: none;
 }
 tei-Seg {font-weight: bold;
 }
-tei-Supplied {display: none;
-}
 tei-P {text-align: center;
 }
 tei-Reg {display: none;
+}
+tei-Supplied Source= {display: none;
 }
