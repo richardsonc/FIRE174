@@ -9,7 +9,7 @@
             <title type="sub">Digital Edition</title>
             <author>
               <persName xml:id="AL">Ariana Lawson</persName> and
-              <persName xml:id="CSR">Courtney Richardson</persName>
+              <persName xml:id="CSR">Courtney Richardson</persName> with
               <orgName xml:id="ADDHUM">African American History, Culture, and Digital Humanities(ADDHum)</orgName>
             </author>
             <respStmt>
@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
               <resp>Encoded by</resp>
-              <persName ref="#AL">Ariana Lawson</persName>
+              <persName ref="#AL">Ariana Lawson and</persName>
               <persName ref="#CSR">Courtney Richardson</persName>
             </respStmt>
          </titleStmt>
@@ -79,7 +79,7 @@
         <p>
       <lg type="song">
         <lg type="verse">
-          <l> See, <choice><orig>I</orig><supplied><persName ref="#IA">(India.Arie)</persName></supplied></choice>can kinda recall a lil' ways back </l>
+          <l> See, <choice><orig>I</orig><supplied><persName ref="#IA">(India.Arie)</persName></supplied></choice> can kinda recall a lil' ways back </l>
           <l> Small, tryin' to ball, always been black </l>
           <l> And my hair, I tried it all I even went <choice><orig><abbr>flat</abbr></orig><reg>(Flat-ironed)</reg></choice></l>
           <l> Had a lumpy curly top and all that crap, now </l>
@@ -110,17 +110,17 @@
         <lg type="chorus">
           <l> Hey (hey)</l>
           <l><seg type="natural-hair">I am not my hair</seg></l><!-- This is an example of freedom language because India.Arie is saying that black people are more than their hari, and natural hair should be freeing, rather than confining to black people due to personal and societal views. -->
-          <l> I am not this skin </l>
-          <l> I am not your expectations, no (hey) </l>
+          <l><seg type="natural-hair">I am not this skin</seg></l>
+          <l><seg type="natural-hair">I am not your expectations, no (hey)</seg></l>
           <l> I am not my hair</l>
           <l>I am not this skin</l>
-          <l> I am the soul that lives within</l>
+          <l><seg type="natural-hair">I am the soul that lives within</seg></l>
           <l> Good hair means curls and waves (no)</l>
           <l> Bad hair means you look like a slave (no)</l>
           <l> At the turn of the century</l>
           <l><seg type="natural-hair">It's time for us to redefine who we be</seg></l><!-- This is an example of freedom language because India.Arie is using her song to redefine how natural hair is seen in society. -->
           <l> You can shave it off like a South African beauty</l>
-          <l>Or get in on lock<choice><orig><abbr>locks</abbr></orig><reg>(dreadlocks)</reg></choice> like <persName ref="#BM">Bob Marley</persName></l>
+          <l>Or get in on <choice><orig><abbr>lock</abbr></orig><reg>(dreadlocks)</reg></choice> like <persName ref="#BM">Bob Marley</persName></l>
           <l>You can rock it straight like <persName ref="#OP">Oprah Winfrey</persName></l>
           <l> If it's not what's on your head, it's what's underneath, and say</l>
           <l> Hey (hey)</l>
@@ -138,13 +138,13 @@
           <l>Ain't see nothin' like that in all my days</l>
           <l>Man, you gotta change all these feelings</l>
           <l>Steady judging one another by their appearance</l>
-          <l>Yes,<persName ref="#IA">India</persName>, I feel ya, girl</l>
+          <l>Yes, <persName ref="#IA">India</persName>, I feel ya, girl</l>
           <l>Now go ahead, talk to the rest of the world 'cause</l>
         </lg>
       <lg type= "Verse">
           <l> Does the way I wear my hair make me a better person? (Whoa, whoa, whoa)</l>
            <l>Does the way I wear my hair make me a better friend? Oh (Whoa, whoa, whoa)</l>
-           <l>Does the way I wear my hair determine my integrity?(Whoa, whoa, whoa)</l>
+           <l>Does the way I wear my hair determine my integrity? (Whoa, whoa, whoa)</l>
            <l>I am expressing my creativity (Whoa, whoa, whoa)</l>
         </lg>
       <lg type= "Verse">

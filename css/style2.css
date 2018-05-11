@@ -1,2 +1,10 @@
 tei-Supplied {display: none;
 }
+tei-Reg {display: none;
+}
+tei-Seg {font-weight: bold;
+}
+tei-Seg:hover {background-color: yellow;
+}
+tei-Tei {background: #dedede
+}
